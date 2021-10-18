@@ -1,0 +1,24 @@
+PERMISSIONs :
+- Login 
+- Invite a member 
+- Change Username
+- Follow somebody
+- Thirdparty
+- Thirdparty schedules
+---------------------------------------------------------------------
+User "a" blocked by user "b" 
+then , user a can not : 
+- read user "b"
+- write for user "b"  
+---------------------------------
+role : 
+1. login to application 
+2. home page (index) 
+ index : 
+     - add post 
+     - home posts
+     - profile 
+     - notifications 
+     - browse others 
+     - messages 
+     - ACTIONS TO OTHERS POSTS : LIke , Comment, Share 

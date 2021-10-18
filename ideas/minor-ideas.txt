@@ -1,0 +1,1 @@
+1. let clients tell their FAAZ to network and set their default FAAZes and let others know their mood.

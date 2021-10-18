@@ -1,0 +1,3 @@
+- always should check if DOER is authenticated or not !
+- modules would not do anything if authentication were failed !
+- login, signup, forgotpassword, invite_modules, messages_modules, posting_modules, thirdparties_modules modules are the same for all rolers

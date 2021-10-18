@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1126ef36-7bdb-4126-ad96-dcaae2719b5e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="welcome.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/app/controller/welcome.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module.login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/app/module/module.login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding>
+                <element signature="e#25#43#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/witcher/app/controller/ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="e#29#43#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/core/pager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/core/config/pages.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/app/model/class.user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="228" column="43" lean-forward="false" selection-start-line="228" selection-start-column="43" selection-end-line="228" selection-end-column="43" />
+              <folding>
+                <element signature="e#24#40#0#PHP" expanded="true" />
+                <marker date="1537123942614" expanded="true" signature="607:851" ph="SELECT ${$ta... ${$table[0]}" />
+                <marker date="1537123942614" expanded="true" signature="1132:1177" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="1425:1529" ph="SELECT ${$ta... ${$table[0]}" />
+                <marker date="1537123942614" expanded="true" signature="1865:1975" ph="SELECT ${$us... ${$wallet_tbl}" />
+                <marker date="1537123942614" expanded="true" signature="2255:2383" ph="SELECT ${$ta... ${$table[0]}" />
+                <marker date="1537123942614" expanded="true" signature="2610:2631" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="2858:2879" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="3333:3440" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="4592:4709" ph="SELECT user_... user_tbl" />
+                <marker date="1537123942614" expanded="true" signature="5204:5295" ph="SELECT * FRO... ${$user_tbl}" />
+                <marker date="1537123942614" expanded="true" signature="5767:5851" ph="SELECT * FRO... ${$user_tbl}" />
+                <marker date="1537123942614" expanded="true" signature="6374:6405" ph="INSERT INTO ${$user_permissions}... " />
+                <marker date="1537123942614" expanded="true" signature="6374:6457" ph="INSERT INTO ${$user_permissions}... " />
+                <marker date="1537123942614" expanded="true" signature="6374:6472" ph="INSERT INTO ${$user_permissions}... " />
+                <marker date="1537123942614" expanded="true" signature="6510:6533" ph="INSERT INTO ${$user_tbl}... " />
+                <marker date="1537123942614" expanded="true" signature="6510:6580" ph="INSERT INTO ${$user_tbl}... " />
+                <marker date="1537123942614" expanded="true" signature="6510:6624" ph="INSERT INTO ${$user_tbl}... " />
+                <marker date="1537123942614" expanded="true" signature="6510:6670" ph="INSERT INTO ${$user_tbl}... " />
+                <marker date="1537123942614" expanded="true" signature="6510:6730" ph="INSERT INTO ${$user_tbl}... " />
+                <marker date="1537123942614" expanded="true" signature="7563:7577" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="7787:7832" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="8068:8117" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="8397:8440" ph="SELECT * FRO... ${$table}" />
+                <marker date="1537123942614" expanded="true" signature="8617:8661" ph="UPDATE ${$ta... " />
+                <marker date="1537123942614" expanded="true" signature="8873:8930" ph="UPDATE ${$ta... " />
+                <marker date="1537123942614" expanded="true" signature="9505:9618" ph="UPDATE ${$tb... " />
+                <marker date="1537123942614" expanded="true" signature="9786:9804" ph="UPDATE ${$ta... " />
+                <marker date="1537123942614" expanded="true" signature="10068:10112" ph="SELECT * FRO... ${$tbl[0]}" />
+                <marker date="1537123942614" expanded="true" signature="10150:10194" ph="SELECT * FRO... ${$tbl[1]}" />
+                <marker date="1537123942614" expanded="true" signature="11088:11123" ph="UPDATE ${$tb... " />
+                <marker date="1537123942614" expanded="true" signature="11341:11398" ph="UPDATE ${$tb... " />
+                <marker date="1537123942614" expanded="true" signature="11626:11640" ph="SELECT * FRO... ${$tbl}" />
+                <marker date="1537123942614" expanded="true" signature="11788:11838" ph="SELECT * FRO... ${$tbl}" />
+                <marker date="1537123942614" expanded="true" signature="12278:12292" ph="SELECT * FRO... ${$tbl}" />
+                <marker date="1537123942614" expanded="true" signature="12551:12591" ph="SELECT * FRO... ${$tbl}" />
+                <marker date="1537123942614" expanded="true" signature="12885:12927" ph="DELETE FROM " />
+                <marker date="1537123942614" expanded="true" signature="12957:12999" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.roles.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/app/model/class.roles.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1175">
+              <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="e#24#42#0#PHP" expanded="true" />
+                <marker date="1536862496194" expanded="true" signature="490:510" ph="SELECT ${$co... " />
+                <marker date="1536862496194" expanded="true" signature="490:511" ph="SELECT ${$co... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="744:764" ph="SELECT * FRO... " />
+                <marker date="1536862496194" expanded="true" signature="744:765" ph="SELECT ${$co... ${$table}" />
+                <marker date="1536862496194" expanded="true" signature="744:782" ph="SELECT ${$co... ${$table}" />
+                <marker date="1536862496194" expanded="true" signature="1517:1598" ph="DELETE FROM " />
+                <marker date="1536862496194" expanded="true" signature="1757:1823" ph="SELECT ${$co... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2405" ph="SELECT ${$co... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2427" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2428" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2429" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2461" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2474" ph="SELECT * FRO... ${self::$table}" />
+                <marker date="1536862496194" expanded="true" signature="2391:2475" ph="SELECT * FRO... ${self::$table}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="roles_category.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/witcher/app/model/configs/roles_category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>background</find>
+      <find>body</find>
+      <find>$code</find>
+      <find>$result = $array['Message'];</find>
+      <find>array_merge</find>
+      <find>update</find>
+      <find>get_permissions_custom</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/witcher/app/model/class.views.php" />
+        <option value="$PROJECT_DIR$/witcher/view/layouts/header.php" />
+        <option value="$PROJECT_DIR$/witcher/app/model/class.message.php" />
+        <option value="$PROJECT_DIR$/public_html/configuration.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/session.php" />
+        <option value="$PROJECT_DIR$/witcher/core/session.php" />
+        <option value="$PROJECT_DIR$/witcher/app/module/login.php" />
+        <option value="$PROJECT_DIR$/witcher/view/login.php" />
+        <option value="$PROJECT_DIR$/witcher/app/controller/login.php" />
+        <option value="$PROJECT_DIR$/public_html/lab.php" />
+        <option value="$PROJECT_DIR$/witcher/app/controller/home.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/authentication.php" />
+        <option value="$PROJECT_DIR$/../lab/ghaleb.php" />
+        <option value="$PROJECT_DIR$/../lab/test/Table_Fixed_Header/css/main.css" />
+        <option value="$PROJECT_DIR$/../lab/test/Table_Fixed_Header/index.html" />
+        <option value="$PROJECT_DIR$/witcher/view/test.php" />
+        <option value="$PROJECT_DIR$/../lab/test/Table_Fixed_Header/test.html" />
+        <option value="$PROJECT_DIR$/../lab/index.php" />
+        <option value="$PROJECT_DIR$/public_html/.htaccess" />
+        <option value="$PROJECT_DIR$/witcher/core/model.php" />
+        <option value="$PROJECT_DIR$/public_html/assets/js/welcome.js" />
+        <option value="$PROJECT_DIR$/witcher/core/module.php" />
+        <option value="$PROJECT_DIR$/witcher/core/configs.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/token.php" />
+        <option value="$PROJECT_DIR$/witcher/view/home.php" />
+        <option value="$PROJECT_DIR$/public_html/assets/css/welcome.css" />
+        <option value="$PROJECT_DIR$/witcher/core/drjson.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/ExceptionsMessages/main.php" />
+        <option value="$PROJECT_DIR$/witcher/core/tokenCSRF.php" />
+        <option value="$PROJECT_DIR$/witcher/core/preg.php" />
+        <option value="$PROJECT_DIR$/witcher/app/module/module.signup.php" />
+        <option value="$PROJECT_DIR$/witcher/view/welcome.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/ExceptionsMessages/authentication.php" />
+        <option value="$PROJECT_DIR$/witcher/app/users/eilia.abedian@yahoo.com/follow_requests.json" />
+        <option value="$PROJECT_DIR$/witcher/app/users/eilia.abedian@yahoo.com/followers.json" />
+        <option value="$PROJECT_DIR$/witcher/app/model/class.userRels.php" />
+        <option value="$PROJECT_DIR$/witcher/app/users/eilia.abedian@yahoo.com/followings.json" />
+        <option value="$PROJECT_DIR$/witcher/app/autoloader.php" />
+        <option value="$PROJECT_DIR$/witcher/app/controller/welcome.php" />
+        <option value="$PROJECT_DIR$/witcher/app/model/configs/roles_category.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/mainDb_tables.php" />
+        <option value="$PROJECT_DIR$/witcher/app/model/class.roles.php" />
+        <option value="$PROJECT_DIR$/witcher/app/model/configs/users.php" />
+        <option value="$PROJECT_DIR$/witcher/app/module/module.login.php" />
+        <option value="$PROJECT_DIR$/witcher/app/model/class.user.php" />
+        <option value="$PROJECT_DIR$/witcher/core/config/pages.php" />
+        <option value="$PROJECT_DIR$/witcher/app/controller/panel.php" />
+        <option value="$PROJECT_DIR$/witcher/core/pager.php" />
+        <option value="$PROJECT_DIR$/witcher/app/controller/config/ajax.config.php" />
+        <option value="$PROJECT_DIR$/witcher/app/controller/ajax.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="-25" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="configs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="panel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="users" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cwilit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cwilit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="witcher" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab/index.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\cwilit\witcher\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1126ef36-7bdb-4126-ad96-dcaae2719b5e" name="Default" comment="" />
+      <created>1534416771787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534416771787</updated>
+      <workItem from="1534416773128" duration="2604000" />
+      <workItem from="1534434571224" duration="607000" />
+      <workItem from="1534439647844" duration="2799000" />
+      <workItem from="1534445343119" duration="1342000" />
+      <workItem from="1534889971768" duration="425000" />
+      <workItem from="1534964875887" duration="3146000" />
+      <workItem from="1535100261818" duration="10825000" />
+      <workItem from="1535217108268" duration="3107000" />
+      <workItem from="1535234161959" duration="596000" />
+      <workItem from="1535234774249" duration="6000" />
+      <workItem from="1535288984417" duration="2544000" />
+      <workItem from="1535395890183" duration="607000" />
+      <workItem from="1535479478377" duration="10515000" />
+      <workItem from="1535587537228" duration="4628000" />
+      <workItem from="1536515920858" duration="127000" />
+      <workItem from="1536850699707" duration="10989000" />
+      <workItem from="1537121726380" duration="2415000" />
+      <workItem from="1537207855929" duration="2818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21911922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.wallet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/assets/js/welcome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../arash-project/witcher/view/admin-panel/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="730" column="4" lean-forward="false" selection-start-line="730" selection-start-column="4" selection-end-line="741" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/view/test.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.login.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/configs.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/token.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.views.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/view/home.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/assets/css/welcome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="174" column="13" lean-forward="false" selection-start-line="174" selection-start-column="13" selection-end-line="174" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/database.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/app/ajax/viewings/user_info.ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/ExceptionsMessages/main.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <marker date="1534418295170" expanded="true" signature="195:232" ph="..." />
+            <marker date="1534418295170" expanded="true" signature="321:370" ph="..." />
+            <marker date="1534418295170" expanded="true" signature="623:660" ph="..." />
+            <marker date="1534418295170" expanded="true" signature="806:855" ph="..." />
+            <marker date="1534418295170" expanded="true" signature="1559:1612" ph="..." />
+            <marker date="1534418295170" expanded="true" signature="1791:1840" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/hash_tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/controller/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.pager.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.preg.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.server.php" />
+    <entry file="file://$PROJECT_DIR$/witcher/core/tokenCSRF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/preg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/view/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="64" column="82" lean-forward="false" selection-start-line="64" selection-start-column="82" selection-end-line="64" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/users/eilia.abedian@yahoo.com/followings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/users/eilia.abedian@yahoo.com/followers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/ExceptionsMessages/authentication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/users/eilia.abedian@yahoo.com/follow_requests.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="130" column="5" lean-forward="false" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/drjson.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.userRels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="151" column="45" lean-forward="false" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.interfaces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3500">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531144566000" expanded="true" signature="1515:1555" ph="SELECT * FRO... ${$this-&gt;tbl['Sliders']}" />
+            <marker date="1531144566000" expanded="true" signature="1744:1784" ph="SELECT * FRO... ${$this-&gt;tbl['Sliders']}" />
+            <marker date="1531144566000" expanded="true" signature="1998:2045" ph="SELECT ${$co... ${$this-&gt;tbl['Sliders']}" />
+            <marker date="1531144566000" expanded="true" signature="2229:2295" ph="SELECT * FRO... ${$this-&gt;tbl['Sliders']}" />
+            <marker date="1531144566000" expanded="true" signature="2546:2613" ph="SELECT * FRO... ${$this-&gt;tbl['Sliders']}" />
+            <marker date="1531144566000" expanded="true" signature="2869:2935" ph="SELECT * FRO... ${$this-&gt;tbl['Sliders']}" />
+            <marker date="1531144566000" expanded="true" signature="4910:5100" ph="INSERT INTO ${$this-&gt;tbl['Sliders']}... " />
+            <marker date="1531144566000" expanded="true" signature="8757:8818" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/configs/roles_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/configDb_tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/configs/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/mainDb_tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/module/module.signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="66" />
+          <folding>
+            <element signature="e#25#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/controller/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.roles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#24#42#0#PHP" expanded="true" />
+            <marker date="1536862496194" expanded="true" signature="490:510" ph="SELECT ${$co... " />
+            <marker date="1536862496194" expanded="true" signature="490:511" ph="SELECT ${$co... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="744:764" ph="SELECT * FRO... " />
+            <marker date="1536862496194" expanded="true" signature="744:765" ph="SELECT ${$co... ${$table}" />
+            <marker date="1536862496194" expanded="true" signature="744:782" ph="SELECT ${$co... ${$table}" />
+            <marker date="1536862496194" expanded="true" signature="1517:1598" ph="DELETE FROM " />
+            <marker date="1536862496194" expanded="true" signature="1757:1823" ph="SELECT ${$co... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2405" ph="SELECT ${$co... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2427" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2428" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2429" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2461" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2474" ph="SELECT * FRO... ${self::$table}" />
+            <marker date="1536862496194" expanded="true" signature="2391:2475" ph="SELECT * FRO... ${self::$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/config/pages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/module/module.login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="e#25#43#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/controller/panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="e#29#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/model/class.user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="228" column="43" lean-forward="false" selection-start-line="228" selection-start-column="43" selection-end-line="228" selection-end-column="43" />
+          <folding>
+            <element signature="e#24#40#0#PHP" expanded="true" />
+            <marker date="1537123942614" expanded="true" signature="607:851" ph="SELECT ${$ta... ${$table[0]}" />
+            <marker date="1537123942614" expanded="true" signature="1132:1177" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="1425:1529" ph="SELECT ${$ta... ${$table[0]}" />
+            <marker date="1537123942614" expanded="true" signature="1865:1975" ph="SELECT ${$us... ${$wallet_tbl}" />
+            <marker date="1537123942614" expanded="true" signature="2255:2383" ph="SELECT ${$ta... ${$table[0]}" />
+            <marker date="1537123942614" expanded="true" signature="2610:2631" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="2858:2879" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="3333:3440" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="4592:4709" ph="SELECT user_... user_tbl" />
+            <marker date="1537123942614" expanded="true" signature="5204:5295" ph="SELECT * FRO... ${$user_tbl}" />
+            <marker date="1537123942614" expanded="true" signature="5767:5851" ph="SELECT * FRO... ${$user_tbl}" />
+            <marker date="1537123942614" expanded="true" signature="6374:6405" ph="INSERT INTO ${$user_permissions}... " />
+            <marker date="1537123942614" expanded="true" signature="6374:6457" ph="INSERT INTO ${$user_permissions}... " />
+            <marker date="1537123942614" expanded="true" signature="6374:6472" ph="INSERT INTO ${$user_permissions}... " />
+            <marker date="1537123942614" expanded="true" signature="6510:6533" ph="INSERT INTO ${$user_tbl}... " />
+            <marker date="1537123942614" expanded="true" signature="6510:6580" ph="INSERT INTO ${$user_tbl}... " />
+            <marker date="1537123942614" expanded="true" signature="6510:6624" ph="INSERT INTO ${$user_tbl}... " />
+            <marker date="1537123942614" expanded="true" signature="6510:6670" ph="INSERT INTO ${$user_tbl}... " />
+            <marker date="1537123942614" expanded="true" signature="6510:6730" ph="INSERT INTO ${$user_tbl}... " />
+            <marker date="1537123942614" expanded="true" signature="7563:7577" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="7787:7832" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="8068:8117" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="8397:8440" ph="SELECT * FRO... ${$table}" />
+            <marker date="1537123942614" expanded="true" signature="8617:8661" ph="UPDATE ${$ta... " />
+            <marker date="1537123942614" expanded="true" signature="8873:8930" ph="UPDATE ${$ta... " />
+            <marker date="1537123942614" expanded="true" signature="9505:9618" ph="UPDATE ${$tb... " />
+            <marker date="1537123942614" expanded="true" signature="9786:9804" ph="UPDATE ${$ta... " />
+            <marker date="1537123942614" expanded="true" signature="10068:10112" ph="SELECT * FRO... ${$tbl[0]}" />
+            <marker date="1537123942614" expanded="true" signature="10150:10194" ph="SELECT * FRO... ${$tbl[1]}" />
+            <marker date="1537123942614" expanded="true" signature="11088:11123" ph="UPDATE ${$tb... " />
+            <marker date="1537123942614" expanded="true" signature="11341:11398" ph="UPDATE ${$tb... " />
+            <marker date="1537123942614" expanded="true" signature="11626:11640" ph="SELECT * FRO... ${$tbl}" />
+            <marker date="1537123942614" expanded="true" signature="11788:11838" ph="SELECT * FRO... ${$tbl}" />
+            <marker date="1537123942614" expanded="true" signature="12278:12292" ph="SELECT * FRO... ${$tbl}" />
+            <marker date="1537123942614" expanded="true" signature="12551:12591" ph="SELECT * FRO... ${$tbl}" />
+            <marker date="1537123942614" expanded="true" signature="12885:12927" ph="DELETE FROM " />
+            <marker date="1537123942614" expanded="true" signature="12957:12999" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/core/pager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/controller/config/ajax.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/witcher/app/controller/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#29#43#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

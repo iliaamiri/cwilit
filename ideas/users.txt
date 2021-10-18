@@ -1,0 +1,13 @@
+users | administrator | admin | support | 
+  0   |      1        |   2   |    3    |
+______|_______________|_______|_________|
+****** ADMINISTRATOR IS THE KING ******
+----------------------------------------
+- ADMINISTRATOR CAN CHANGE THE WEBSITE SUBJECT !
+- ADMINISTRATOR SAYS WHO IS WHO AND WHAT CAN HE DO !
+- ADMINISTRATOR CAN F THE WHOLE WEBSITE !
+- ADMINISTRATOR CAN F THE WHOLE DATABASE !
+- ADMINISTRATOR CAN CHANGE DATABASE CONFIG !
+----------------------------------------
+
+users_permissions | admins_permissions | support_permissions 

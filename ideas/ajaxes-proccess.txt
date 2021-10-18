@@ -1,0 +1,2 @@
+1. ajax files get request from website 
+2. they will start controllers 

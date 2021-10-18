@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>cwilit</title>
+
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/main.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+<ul class="hidden-xs" style="padding : 0px 4px;font-size:13px;margin:0px auto;">
+    <b>
+        <li>
+            <a href="">MY followings |</a>
+            <a href="">Populers |</a>
+            <a href="">Funny |</a>
+            <a href="">VIDEOS |</a>
+            <a href="">Movies |</a>
+            <a href="">Gaming |</a>
+            <a href="">OLDSCHOOL |</a>
+            <a href="">Adults |</a>
+            <a href="">Qoutes |</a>
+            <a href="">Todays Special |</a>
+            <a href="">Gifs |</a>
+            <a href="">Sports |</a>
+            <a href="">Musics |</a>
+            <a href="">What's up today? |</a>
+            <a href="">HELLO WORLD |</a>
+            <a href="">comment fighting ! |</a>
+            <a href="">up to 5k likes |</a>
+            <a href="">up to 100k likes |</a>
+            <a href="">up to 500k likes |</a>
+            <a href="">up to 1000k likes |</a>
+            <a href="">up to 5000k likes |</a>
+            <a href="">up to 10000k likes |</a>
+            <a href="">up to 1m likes |</a>
+            <a href="">SO IMPORTANTs |</a>
+            <a href="">MORE</a>
+        </li>
+    </b>
+</ul>
+<header class="container-fluid">
+    <div class="topnav" id="myTopnav">
+        <div class="container">
+            <a href="" style="padding:0px 20px;"><img src="assets/img/logo.png" alt="" class="img-responsive img-rounded" style="height:53px;float:left;"></a>
+            <a href="#home" class="active" title="ME"><img src="assets/img/round-account-button-with-user-inside.svg" class="img-responsive" style="height:24px;" alt=""></a>
+            <a>
+                <div class="search-container">
+                    <form action="/action_page.php">
+                        <input type="text" placeholder="Find Some Friends" name="search" class="input-search">
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+            </a>
+            <a href="#news" title="Notifications"><img src="assets/img/notification.svg" class="img-responsive" style="height:24px;" alt=""></a>
+            <a href="#contact" title="Messages"><img src="assets/img/email.svg" class="img-responsive" style="height:24px;" alt=""></a>
+            <a href="#about" title="Friends"><img src="assets/img/group-button.svg" class="img-responsive" style="height:24px;" alt=""></a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
+    </div>
+</header>
+<div class="container" style="text-align:center;">
+    <div class="row" >
+        <a href="" class="btn btn-success cwil-btn ">CWIL SOMETHING +</a>
+    </div>
+    <div class="row">
+        <a href="" class="btn btn-default cwil-btn">NEW POST +</a>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="col-md-4 col-md-push-4" style="border:1px solid #333;border-radius:5px;margin-top:10px;">
+        <div class="row">
+            <div class="col-md-2" style="background:red;"><img src="assets/img/man-avatar.svg" alt="" class="img-responsive img-circle" style="height:50px;"></div>
+            <div class="col-md-7" style="background:red;"><b>redbolder</b></div>
+        </div>
+        <hr>
+        <div class="row">
+            <img src="assets/img/posts/test.jpg" alt="" class="img-responsive" height="200px;">
+        </div>
+        <div class="row" style="border-top:1px solid #333;border-bottom:1px solid #333;">
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Like</a></div>
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Share</a></div>
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Comment</a></div>
+        </div>
+        <div class="row">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit dolore autem debitis, nulla incidunt eos necessitatibus accusamus animi, placeat eaque quaerat error porro! Atque accusamus necessitatibus, nostrum consequatur veritatis ullam.
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="col-md-4 col-md-push-4" style="border:1px solid #333;border-radius:5px;margin-top:10px;">
+        <div class="row">
+            <div class="col-md-2" style="background:red;"><img src="assets/img/man-avatar.svg" alt="" class="img-responsive img-circle" style="height:50px;"></div>
+            <div class="col-md-7" style="background:red;"><b>MAMAD</b></div>
+        </div>
+        <hr>
+        <div class="row">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi debitis minus reiciendis minima nemo cupiditate similique. Repellendus delectus consequatur laudantium sint reprehenderit quo at assumenda dolorem? Illo reiciendis, minus fugiat.
+        </div>
+        <div class="row" style="border-top:1px solid #333;border-bottom:1px solid #333;">
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Like</a></div>
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Share</a></div>
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Comment</a></div>
+        </div>
+        <div class="row">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit dolore autem debitis, nulla incidunt eos necessitatibus accusamus animi, placeat eaque quaerat error porro! Atque accusamus necessitatibus, nostrum consequatur veritatis ullam.
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="col-md-4 col-md-push-4" style="border:1px solid #333;border-radius:5px;margin-top:10px;">
+        <div class="row">
+            <div class="col-md-2" style="background:red;"><img src="assets/img/man-avatar.svg" alt="" class="img-responsive img-circle" style="height:50px;"></div>
+            <div class="col-md-7" style="background:red;"><b>Tommy</b></div>
+        </div>
+        <hr>
+        <div class="row">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi debitis minus reiciendis minima nemo cupiditate similique. Repellendus delectus consequatur laudantium sint reprehenderit quo at assumenda dolorem? Illo reiciendis, minus fugiat.
+        </div>
+        <div class="row" style="border-top:1px solid #333;border-bottom:1px solid #333;">
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Like</a></div>
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Share</a></div>
+            <div class="col-md-1" style="text-align:center;"><a href="" class="btn">Comment</a></div>
+        </div>
+        <div class="row">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit dolore autem debitis, nulla incidunt eos necessitatibus accusamus animi, placeat eaque quaerat error porro! Atque accusamus necessitatibus, nostrum consequatur veritatis ullam.
+        </div>
+    </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+
+</html>
